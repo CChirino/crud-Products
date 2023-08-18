@@ -54,6 +54,6 @@ En el bash corre lo siguiente:
 	php artisan db:seed
 
 
-Posteriormente vamos a consultar los siguiente endpoints, para actualizar nuestra humedad:
+Posteriormente vamos a consultar los siguiente endpoints:
 
     http://products.local:8083/api/v1/products
