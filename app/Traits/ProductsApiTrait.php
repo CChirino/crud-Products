@@ -69,7 +69,6 @@ trait ProductsApiTrait {
  
          $validator = Validator::make($fields, [
              'name' => 'required',
-             'description' => 'required',
              'price' => 'required'
          ]);
  
@@ -113,7 +112,6 @@ trait ProductsApiTrait {
         }
 
          $product->name = $fields['name'];
-         $product->description = $fields['description'];
          $product->price = $fields['price'];
          $product->save();
  
