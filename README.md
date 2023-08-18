@@ -21,7 +21,7 @@ Te voy a enseñar el paso a paso para configurar tu entorno local, en este caso 
 	- Instalacion de Docker [https://docs.docker.com/engine/install/ubuntu/](https://docs.docker.com/engine/install/ubuntu/)
 
 Ya una vez instalado el docker nos vamos a clonar el respectivo proyecto con el comando:
- -  git clone https://github.com/CChirino/openweatherbackend.git
+ -  git clone https://github.com/CChirino/crud-Products.git
 
 Se recomienda dejar el ***docker-compose.yml***, como esta para que no afecte en nada, ahora lo que vamos es a registrar nuestro respectivo hosts
 
